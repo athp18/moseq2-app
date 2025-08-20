@@ -30,7 +30,7 @@ dependencies = [
     "scipy>=1.3.2",
     "seaborn>=0.11.0",
     "moseq2-extract @ git+https://github.com/athp18/moseq2-extract@packaging",
-    "moseq2-model @ git+https://github.com/athp18/moseq2-model",
+    "moseq2-model @ git+https://github.com/athp18/moseq2-model@packaging",
     "moseq2-pca @ git+https://github.com/athp18/moseq2-pca@packaging",
     "moseq2-viz @ git+https://github.com/athp18/moseq2-viz@packaging",
     "Cython>=3.0.11",
